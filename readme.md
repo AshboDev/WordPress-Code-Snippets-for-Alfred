@@ -3,7 +3,7 @@
 Enhance and speed up your workflow with a collection of WordPress snippets for you, as a developer, to use in your projects. You need [Alfred](https://www.alfredapp.com/) to use these snippets, otherwise you can just copy them from source as and when you need them.
 
 ### Installation
-1. Download the snippets here
+1. Download the snippets [here](https://github.com/AshboDev/WordPress-Code-Snippets-for-Alfred/raw/master/WordPress-Code-Snippets-for-Alfred.alfredsnippets)
 2. Open Alfred, and go to Features
 3. Click Snippets on the left
 4. Drag the snippet file into the collection section
