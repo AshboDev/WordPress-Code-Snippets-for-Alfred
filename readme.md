@@ -15,6 +15,9 @@ A function which will create breadcrumbs with support for WooCommerce, custom po
 `WP Custom Excerpt Length`  
 A function to create a custom excerpt length instead of using `the_excerpt`.
 
+`WP Custom Post Type Loop`  
+Generates a basic loop for looping through custom post types.
+
 `WP Defer Scripts`  
 A function which defers the loading of specific scripts. Useful for page speed optimisation and stuff.
 
